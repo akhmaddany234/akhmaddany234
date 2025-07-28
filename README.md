@@ -39,7 +39,8 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akhmaddany234/akhmaddany234/output/pacman-contribution-graph.svg" width="48%" />
-  <img src="https://media4.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="48%" />
+  <img src="https://raw.githubusercontent.com/akhmaddany234/akhmaddany234/output/pacman-contribution-graph.svg" width="45%" style="margin-right: 10px;" />
+  <img src="https://media4.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="7%" />
 </p>
+
 
