@@ -7,12 +7,20 @@
 
 ---
 
-### About Me
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
 
-- 🎓 5th semester student majoring in **Data Science at UNESA**
-- 🤖 Interested in: `AI`, `Machine Learning`, `Computer Vision`, `Data Analytics`
-- 🌱 Currently exploring: Deep Learning, MLOps, and Big Data
-- 💬 Always open to talk about anything tech-related
+  <h3>About Me</h3>
+  <ul>
+    <li>🎓 5th semester student majoring in <strong>Data Science at UNESA</strong></li>
+    <li>🤖 Interested in: <code>AI</code>, <code>Machine Learning</code>, <code>Computer Vision</code>, <code>Data Analytics</code></li>
+    <li>🌱 Currently exploring: Deep Learning, MLOps, and Big Data</li>
+    <li>💬 Always open to talk about anything tech-related</li>
+  </ul>
+
+  </div>
+  <img src="https://media4.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="150" />
+</div>
 
 ---
 
@@ -39,8 +47,11 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akhmaddany234/akhmaddany234/output/pacman-contribution-graph.svg" width="80%" style="margin-right: 10px;" />
-  <img src="https://media4.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="20%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhmaddany234/akhmaddany234/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhmaddany234/akhmaddany234/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akhmaddany234/akhmaddany234/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 
