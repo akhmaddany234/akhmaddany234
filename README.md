@@ -4,7 +4,7 @@
 <h3 align="center">Data Science Student at Universitas Negeri Surabaya 🇮🇩</h3>
 
 <p align="center">
-  <img src="GIF/Teks paragraf Anda.gif" alt="stiker" width="400" />
+  <img src="GIF/Desain tanpa judul.gif" alt="stiker" width="300" />
 </p>
 
 ---
