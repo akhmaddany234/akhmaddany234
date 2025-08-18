@@ -1,4 +1,4 @@
-  <img src="Jangan di hapus ya (dany).png" width="1000" />
+![akhmaddany](img/tumbnail.png)
 
 <h1 align="center">Hi there 👋, I'm Akhmad Dany</h1>
 <h3 align="center">Data Science Student at Universitas Negeri Surabaya 🇮🇩</h3>
